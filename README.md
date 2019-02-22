@@ -3,9 +3,9 @@
 Vanitor3 attempts to find an Onion V3 address that starts with a specific prefix.
 
 ## Usage
-'''
+```
 ./vanitor3 <prefix>
-'''
+```
 
 ## Related
 * (oniongen-go)[https://github.com/rdkr/oniongen-go]
